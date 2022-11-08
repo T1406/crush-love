@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không!?",
   titleModar: "Xin loi dda mot lan nua vi cot nha luc cau dang met :<",
   descriptionModar:
-    'Arigatooooo ^^ </br> Cam on nha ^^ khi nao xuong HP cau muon to lam gi cung duoc ay  </br> "Arigatooooo </br> Arigatooooo "',
+    'Arigatooooo, khi nao xuong HP cau muon to lam gi cung duoc ay ',
 };

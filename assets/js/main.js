@@ -39,7 +39,7 @@ function start() {
         </p>`;
   btnYes.innerHTML = `<i class="ti-thumb-up"></i> ${CONFIGDATA.buttonYes}`;
   btnNo.innerHTML = ` <i class="ti-thumb-down"></i> ${CONFIGDATA.buttonNo}`;
-  headerModar.innerHTML = `${CONFIGDATA.titleModar} <i class="ti-heart"></i>`;
+  headerModar.innerHTML = `${CONFIGDATA.titleModar}`;
   desccriptionModar.innerHTML = `${CONFIGDATA.descriptionModar}`;
 
   btnYes.onclick = () => {

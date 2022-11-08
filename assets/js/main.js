@@ -32,10 +32,10 @@ function start() {
   document.querySelector(".header").innerHTML = `
         <h1 class="header-name">
             ${CONFIGDATA.titleHeader}
-            <i class="ti-heart"></i>
+        
         </h1>
         <p class="header-description">${CONFIGDATA.descriptionHeader}
-            <i class="ti-face-smile"></i>
+            
         </p>`;
   btnYes.innerHTML = `<i class="ti-thumb-up"></i> ${CONFIGDATA.buttonYes}`;
   btnNo.innerHTML = ` <i class="ti-thumb-down"></i> ${CONFIGDATA.buttonNo}`;
